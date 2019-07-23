@@ -1,0 +1,35 @@
+{
+  "name": "themify-icons",
+  "description": "",
+  "version": "0.1.2",
+  "keywords": [
+  ],
+  "homepage": "",
+  "author": "",
+  "contributors": [
+  ],
+  "scripts": {
+  },
+  "main": "css/themify-icons.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kugel-soft/themify-icons.git"
+  },
+  "bugs": {
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "css",
+    "SVG",
+    "fonts",
+    "ie7"
+  ]
+}
